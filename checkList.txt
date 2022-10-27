@@ -1,0 +1,15 @@
+tematica muestra a tu mascota
+
+checklist
+titulo
+explicacion de la pagina
+formulario introducir 
+    nombre
+    email
+    edad
+    dropout
+    dos radio buttons
+    checkboxes
+    textarea para comentarios
+    boton Submit
+    
