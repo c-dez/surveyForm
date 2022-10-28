@@ -1,8 +1,13 @@
 form{
     display: block;
+    margin: 5rem;
 }
 
 body{
-    background-color: gray;
+    background-color: black;
     color: aliceblue;
+}
+.titulo{
+    text-align: center;
+    margin-top: 5px;
 }
